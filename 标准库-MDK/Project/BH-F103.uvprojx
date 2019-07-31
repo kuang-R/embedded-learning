@@ -567,6 +567,11 @@
               <FileType>1</FileType>
               <FilePath>..\User\stm32f10x_it.c</FilePath>
             </File>
+            <File>
+              <FileName>usart1.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\User\usart1.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
